@@ -1,6 +1,6 @@
 ## Overview
 
-- This is an organized **<u>collection of study materials and assignments for IME subjects</u>** learning during undergraduate and graduate degree (* means got achieved an excellent grade). 
+- This is an organized **<u>collection of study materials and assignments for IME subjects</u>** learning during undergraduate and graduate degree (* means got achieved an excellent grade).   
 
 ## Courses I've learned
 
