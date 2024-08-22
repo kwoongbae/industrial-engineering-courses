@@ -1,19 +1,13 @@
 ## Overview
 
-<<<<<<< HEAD
 - This is an organized **<u>collection of study materials and assignments for IME subjects</u>** learning during undergraduate and graduate degree (* means got achieved an excellent grade).
-=======
-- 본 레포지토리는 학부과정/대학원 과정 동안 배웠던 산업공학과 교과목들에 대한 스터디 자료와 과제들을 정리하여 모아놓은 모음입니다. 
-- Categories: `finance`, `statistics`, `data science`, `HCI`, `optimization`.
->>>>>>> d32e0922974e9cee46ff93cc29043b04a77a7d91
 
 ## Courses I've learned
 
 ### 📂 Data science
 
-<<<<<<< HEAD
 - [Advanced machine learning (IEN4116)](./assets/2023-1-advanced-ml/) *
-- Algorithm(IEN3202) *
+- Algorithm (IEN3202) *
 - [C Language (ACE1306)](./assets/2020-2-cpp/) *
 - [Computer programming (ACE1302)](./assets/2020-1-computer-programming/) *
 - Database (IEN2008)
@@ -52,7 +46,6 @@
 - [Mathematics for data science (IMEN891I)](./assets/2023-2-ds-math/)
 - [Time series analysis (IMEN677)](./assets/2024-1-time-series/)
 
-=======
 - [Advanced machine learning](https://github.com/keywoongbae/Inha-ML-Term-Project) *
 - Algorithm *
 - [C Language (ACE1306)](./ACE1306/) *
@@ -92,4 +85,3 @@
 - [Engineering statistics (IEN2111)](./IEN2111/)
 - [Mathematics for data science (IMEN891I)](./IMEN891I/)
 - [Time series analysis (IMEN677)](./IMEN677/)
->>>>>>> d32e0922974e9cee46ff93cc29043b04a77a7d91
