@@ -33,6 +33,10 @@
 
 - [Ergonomics (IEN3301)](./assets/2021-1-ergonomics/) *
 
+### 📂 Manufacturing
+
+- Smart manufacturing (IMEN529)
+
 ### 📂 Optimization
 
 - [Dynamic programming and application of reinforcement learning (IMEN764)](./assets/2023-2-dynamic-programming/)
