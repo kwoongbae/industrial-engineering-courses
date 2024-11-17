@@ -8,8 +8,4 @@
 - 나머지 3개의 페이지 : 자신이 좋아하는 것 3가지로 표현하기
 
 #### 페이지 배포
-<<<<<<< HEAD
 홈페이지는 [https://kwoongbae.github.io/ime-courses/assets/2022-2-ebusiness/](https://kwoongbae.github.io/ime-courses/assets/2022-2-ebusiness/)에서 확인하실 수 있습니다.
-=======
-홈페이지는 [https://keywoongbae.github.io/Inha-Homepage-Project/](https://keywoongbae.github.io/Inha-Homepage-Project/)에서 확인하실 수 있습니다.
->>>>>>> d32e0922974e9cee46ff93cc29043b04a77a7d91

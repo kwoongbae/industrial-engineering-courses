@@ -1,6 +1,6 @@
 ## Overview
 
-- This is an organized **<u>collection of study materials and assignments for IME subjects</u>** learning during undergraduate and graduate degree (* means got achieved an excellent grade).   
+- This is an organized **<u>collection of study materials and assignments for IME subjects</u>** learned during undergraduate and graduate degree (* means got achieved an excellent grade).   
 
 ## Courses I've learned
 
@@ -28,6 +28,7 @@
 - [Financial statistics (STS4033)](./assets/2022-2-financial-statistics/) *
 - Integrated risk management (IMEN891G)
 - Risk management (GFB3302) *
+- [Corporate valuation with case study (IMEN891H)](./assets/2024-2-corporate-valuation/)
 
 ### 📂 HCI
 
@@ -49,3 +50,4 @@
 - [Engineering statistics (IEN2111)](./assets/2022-2-engineering-statistics/)
 - [Mathematics for data science (IMEN891I)](./assets/2023-2-ds-math/)
 - [Time series analysis (IMEN677)](./assets/2024-1-time-series/)
+
