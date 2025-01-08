@@ -37,12 +37,12 @@
 
 ### **📂 HCI**
 
-- **Ergonomics (IEN3301) ** *
+- **Ergonomics (IEN3301)** *
   - [Project *"인간공학이 적용된 손전등"*](./assets/2021-1-ergonomics/Ergonomics_12190625.pdf)
 
 ### **📂 Manufacturing**
 
-- **Smart manufacturing (IMEN529) ** *
+- **Smart manufacturing (IMEN529)** *
 
 ### **📂 Optimization**
 
