@@ -29,7 +29,7 @@
 - Financial accounting (IMEN203)
 - Financial engineering (IEN4208) *
 - [Financial statistics (STS4033)](./assets/2022-2-financial-statistics/) *
-- Integrated risk management (IMEN891G)
+- [Integrated risk management (IMEN891G)](./assets/2023-2-integrated-risk-management/)
   - [Project: Cyber-Nat: Cyber risks caused by Natural-Catastrophes](./assets/2023-2-integrated-risk-management/Term_project_presentation_891G.pdf)
 - Risk management (GFB3302) *
 - [Corporate valuation with case study (IMEN891H)](./assets/2024-2-corporate-valuation/)
