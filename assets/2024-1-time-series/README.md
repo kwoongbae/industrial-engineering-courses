@@ -4,7 +4,6 @@
 
 - These materials are derived from lecture IMEN677, Prof. Chihyeok Jun.
 - This course is based on Time Series Analysis & Applications, in Korean. 
-- <img src="./assets/book.jfif" alt="book" style="zoom: 33%;" />
 
 ### Contents
 
