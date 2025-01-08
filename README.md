@@ -30,10 +30,10 @@
 - Financial engineering (IEN4208) *
 - [Financial statistics (STS4033)](./assets/2022-2-financial-statistics/) *
 - Integrated risk management (IMEN891G)
-  - [Project: Cyber-Nat: Cyber risks caused by Natural-Catastrophes](./assets/2023-2-integrated-risk-management/[IMEN891G] Term Project Presentation.pdf)
+  - [Project: Cyber-Nat: Cyber risks caused by Natural-Catastrophes](./assets/2023-2-integrated-risk-management/Term_project_presentation_891G.pdf)
 - Risk management (GFB3302) *
 - [Corporate valuation with case study (IMEN891H)](./assets/2024-2-corporate-valuation/)
-  - [Project: Value evaluation on cyber insurance companies](./assets/2024-2-corporate-valuation/IMEN891H Term Project.pdf)
+  - [Project: Value evaluation on cyber insurance companies](./assets/2024-2-corporate-valuation/Term_project_presentation_891H.pdf)
 
 ### 📂 HCI
 
@@ -56,5 +56,5 @@
 - [Engineering statistics (IEN2111)](./assets/2022-2-engineering-statistics/)
 - [Mathematics for data science (IMEN891I)](./assets/2023-2-ds-math/)
 - [Time series analysis (IMEN677)](./assets/2024-1-time-series/)
-  - [Project: Prediction of Sunspot using Tiime-series models](./assets/2024-1-time-series/Term Project/Final_presentation.pdf)
+  - [Project: Prediction of Sunspot using Tiime-series models](./assets/2024-1-time-series/Term_Project/Final_presentation.pdf)
 
